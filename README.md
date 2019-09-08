@@ -5,9 +5,10 @@ Plugin for FiveM server that lets you add custom blips on map.
 
 # Installation
 
-1. Move all the files to your /resources folder
+1. Move PannelBlips-master to your /resources folder
+2. Remove "-master" from folder name. (Optional)
 2. Copy this to your server.cfg:
-start PannelBlips
+start PannelBlips or PannelBlips-master if you did not remove it!
 
 # Adding Blips
 
